@@ -1,12 +1,17 @@
 # 💫 About Me:
-👋 Hi! I'm **Abdul Jabbar**, an **AI Engineer** specializing in **Generative AI** and **production-level deployment** of machine learning systems.  
-🎯 My expertise spans **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, and **MLOps**.  
-🚀 I build intelligent systems that automate workflows, analyze visual data, and enable natural human–AI interactions.  
-🌍 Passionate about applying **AI for Social Good** and building scalable **end-to-end solutions**.
+👋 Hi! I'm **Abdul Jabbar**, an **AI Engineer** specializing in **Generative AI**, **Intelligent Automation**, and **production-ready ML systems**.  
+🎯 I combine **Machine Learning**, **NLP**, **Computer Vision**, and **workflow automation** to build smart, scalable real-world solutions.  
+🤖 Passionate about **AI-driven process automation**, **chatbot systems**, and **applied AI for social good**.  
+🌍 Currently building next-gen AI assistants that connect models, data, and automation platforms seamlessly.
 
 ---
 
-# 💻 Tech Stack:
+## 🧩 Short Tagline
+**AI Engineer | Generative AI | Machine Learning | Deep Learning | Automation (n8n, Voiceflow, Make.com)**
+
+---
+
+# 💻 Tech Stack
 
 ### 🧠 AI / ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -14,13 +19,30 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%230A0A0A.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![SpaCy](https://img.shields.io/badge/SpaCy-%230C55A5.svg?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=black)
 
-### ⚙️ MLOps / Backend
+---
+
+### ⚙️ MLOps / Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23000000.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🤖 AI + Automation Tools
+![n8n](https://img.shields.io/badge/n8n-%23EF4444.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-%234A00FF.svg?style=for-the-badge&logo=integromat&logoColor=white)
+![Voiceflow](https://img.shields.io/badge/Voiceflow-%230066FF.svg?style=for-the-badge&logo=voiceflow&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
 
 ### 🧰 Programming & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,10 +50,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
 
 ### ☁️ Cloud & Databases
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -59,14 +83,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abduljabbar-ai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://JBkhan007.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabbar@uni-bremen.de)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JBkhan007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=JBkhan007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
