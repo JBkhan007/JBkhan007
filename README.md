@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm **Abdul Jabbar**, an **AI Engineer** specializing in **Generative AI**, **Intelligent Automation**, and **production-ready ML systems**.  
+👋  **AI Engineer** specializing in **Generative AI**, **Intelligent Automation**, and **production-ready ML systems**.  
 🎯 I combine **Machine Learning**, **NLP**, **Computer Vision**, and **workflow automation** to build smart, scalable real-world solutions.  
 🤖 Passionate about **AI-driven process automation**, **chatbot systems**, and **applied AI for social good**.  
 🌍 Currently building next-gen AI assistants that connect models, data, and automation platforms seamlessly.
